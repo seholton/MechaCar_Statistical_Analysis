@@ -5,11 +5,11 @@ Deliverable 1
 Linear Regression to Predict MPG
 -
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-- The vehicle length and ground clearance variables represent non-random amounts of variance as applied to the mpg values.
+- The vehicle length and ground clearance variables provide non-random amounts of variance as applied to the mpg values.
 Is the slope of the linear model considered to be zero? Why or why not?
-- The multiple linear regression formula results in a non-zero slope
+- No - The multiple linear regression formula is considered to be a non-zero slope
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-- Yes - R-square is 0.71 meaning 71% chance the model will predict mpg variations correctly. We can consider this linear model efficient to predict mpg of MechaCar prototypes given the current data set.
+- Yes - R-square is 0.71 which means that 71% chance the model will predict mpg variations correctly. 
 
 Deliverable 2
 Summary Statistics on Suspension Coils
